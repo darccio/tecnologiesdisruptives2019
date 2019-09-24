@@ -4,7 +4,7 @@ layout: true
 
 <!-- This slide will serve as the base layout for all your slides -->
 .bottom-bar[
-  {{title}}: Dario Castañé, @im_dario
+  <strong>{{title}}</strong> | Dario Castañé | @im_dario
 ]
 
 ---
