@@ -1,10 +1,10 @@
-title: Tecnologies disruptives
+title: Tecnologies disruptives i el seu impacte social
 class: animation-fade
 layout: true
 
 <!-- This slide will serve as the base layout for all your slides -->
 .bottom-bar[
-  <strong>{{title}}</strong> | Dario Castañé | @im_dario
+  <strong>{{title}}</strong> | Dario Castañé | d@rio.hn
 ]
 
 ---
@@ -13,15 +13,15 @@ class: impact
 
 # Tecnologies disruptives
 
-## IGD Tech & Drinks - Setembre 2019
+## Mobile Week - Febrer 2020
 
 ---
 
 # Dario Castañé
 
-- Enginyer informàtic: Engisoft Cloud Services
-- Pirates de Catalunya
+- Enginyer informàtic: Loyal Guru
 - Blockchain Catalunya
+- Pirates de Catalunya
 - Fundació Inceptum
 - Divulgador
 
@@ -30,33 +30,34 @@ class: impact
 ## Xerrades
 
 - **2014:** Techno Politics
-- **2014-...:** Tallers de defensa digital personal
+- **2014-...:** Tallers d'autodefensa digital
 - **2016:** Municipi i tecnologia: On som i futurs possibles
-- **2018-...:** IGD Tech & Drinks: Blockchain, contenidors, etc.
+- **2018-...:** IGD Tech & Drinks: Blockchain, contenidors, tecnologies disruptives, etc.
 - **2019:** Espiadas y vendidas
 - **2019:** Estònia estat digital. Realitat o ficció?
 - Més a dario.im
 
+???
+
+- Posarem sobre la taula:
+  - Què és la disrupció?
+  - Exemples de tecnologies disruptives a l'alça
+  - I observarem les seves conseqüències
+
 ---
 
-class: impact
-
-# &lt;/falca&gt;
-
----
-
-# Què entenem per disruptiu?
+# Què entenem per "disruptiu"?
 
 - Innovació que genera nous mercats
 - Que irromp en els ja establerts
-- No necessàriament és radicalment nova: evolució
+- Però no necessàriament és radicalment nova
 
 ---
 
-# Exemples
+## Exemples
 
 - **Cotxe:** carruatges de tracció animal
-- **PC:** màquina d'escriure i formes de comunicació
+- **PC:** màquina d'escriure i eines de comunicació
 - **Smartphone:** PDAs, càmares, reproductors, etc.
 
 ---
@@ -99,94 +100,94 @@ class: impact
 
 class: impact
 
-# zk-SNARKs
+# Disrupcions recents
 
 ---
 
-## Què són?
+## "Appificació"
 
-- Tècnica criptogràfica
-- Proves de coneixement zero (Zero Knowledge)
-- Permet que algú demostri a altri que quelcom és cert, sense revelar informació
-
----
-
-background-image: url(zk-snarks-paper.png)
+- Xarxes socials
+- Economia col·laborativa o capitalisme de plataforma?
 
 ???
 
-- Metàfora de la cova d'Ali Babà
-
----
-
-.center[![](000-editor-uploads_1551148339583-1551148339583.jpeg)]
-
-???
-
-- Alice: taronja
-- Bob: blau
-- Alice sap les paraules màgiques de la porta per creuar el passadís
-
----
-
-.center[![](001-editor-uploads_1551148339663-1551148339663.jpeg)]
-
----
-
-.center[![](002-editor-uploads_1551148339777-1551148339777.jpeg)]
-
-???
-
-- Exemples: demostrar ser major d'edat
-
----
-
-## Quina utilitat tenen?
-
-- Identitats sobiranes: IdentiCAT
-- Votació electrònica: Vocdoni
-- Transaccions econòmiques: Zcash
-
----
-
-## Per què és disruptiva?
-
-- Desintermediació
-- Sobirania de dades personals
-
----
-
-class: impact
-
-# Deep fakes
-
----
-
-## Què són?
-
-- Aplicació pràctica del deep learning
-
-???
-
-- Machine learning
+- Aplicacions d'Internet, la gran disrupció
 
 ---
 
 <div style="position:relative;padding-top:50%;">
-  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/VWrhRBb-1Ig" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/pxkXz_gOCQc" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
 ---
 
-## Per què és disruptiva?
+## Deep learning
 
-- Impacte social: fake news
-- Industria cinematogràfica
+- Xarxes neuronals artificials especialitzades en:
+  - Classificació i predicció
+  - Generació
+  - Edició o manipulació
+
+---
+
+.center[<img src="photo_2020-02-09_12-25-56.jpg">]
 
 ???
 
+- Introduir deep fakes
+
+---
+
+<div style="position:relative;padding-top:50%;">
+  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/wXH3UnaBkpI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
+???
+
+- Impacte social: fake news
 - Credibilitat
-  - Manipulació
+- Industria cinematogràfica
+
+---
+
+## Criptografia aplicada
+
+- Criptomonedes: criptografia de clau assimètrica
+- Identitats sobiranes: proves de coneixement zero (zk-SNARK)
+
+???
+
+- zk-SNARK: Permet que algú demostri a altri que quelcom és cert, sense revelar informació
+- Són disruptives perquè:
+  - Desintermediació
+  - Sobirania de dades personals
+
+---
+
+# I el futur?
+
+---
+
+## Provocatipus
+
+.center[<img width="70%" src="provocatype.png">]
+
+---
+
+# Preguntes per a reflexionar
+
+- La tecnologia és neutral?
+- La disrupció té només beneficis?
+- Controlem la tecnologia o ens controla?
+- Cal establir una ètica tecnològica?
+
+---
+
+# Bibliografia
+
+- Evgeny Morozov: How the Internet strengthens dictatorships
+- Langdon Winner: Do artifacts have politics?
+- Cennydd Bowles: Future Ethics
 
 ---
 
@@ -198,15 +199,8 @@ class: impact
 
 # Gràcies!
 
-- i@dario.im
-- @im_dario
-- github.com/imdario
+- d@rio.hn
+- twitter.com/@im_dario
 - @dario@mastodon.social
+- github.com/imdario
 - keybase.io/dario
-
-???
-
-- Pas a la informàtica quàntica
-- Alfonso Rubio-Manzanares
-- CEO d’Entanglement Partners, empresa consultora especialitzada en tecnologies quàntiques
-- President de Barcelonaqbit, think tank que avalua l’impacte social i econòmica de la informació quàntica.
