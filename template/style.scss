@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------------------
 
 $primary          : #00a079;
-$secondary        : #00a079;
+$secondary        : #ff6f61;
 $tertiary         : #757575;
 $light            : #FFF;
 $dark             : #333;
@@ -12,8 +12,8 @@ $code-background  : #F8F8F8;
 $overlay          : transparentize(#000, .5);
 $font-size        : 28px;
 $font-size-impact : 72px;
-$font             : 'Titillium Web', Arial, Helvetica, sans-serif;
-$font-title       : 'Titillium Web', Arial, Helvetica, sans-serif;
+$font             : 'Graphik', Arial, Helvetica, sans-serif;
+$font-title       : 'Graphik', Arial, Helvetica, sans-serif;
 $font-fixed       : 'Lucida Console', Monaco, monospace;
 $margin           : 20px;
 $iframe-scale     : 1.5;
@@ -23,7 +23,7 @@ $iframe-scale     : 1.5;
 // ---------------------------------------------------------------------------
 
 * { box-sizing: border-box; }
-body { font-family: $font; }
+body { font-family: $font; font-weight: lighter; }
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 $margin 0;
   font-family: $font-title;
@@ -48,6 +48,9 @@ blockquote {
   margin: 1em 0;
   & > p { margin: 0; }
 }
+ul ul {
+  margin-block-start: .3em;
+}
 
 
 // Remark base
@@ -66,10 +69,11 @@ blockquote {
 }
 
 .remark-slide-number {
-  color: $text-light;
+  color: $light;
   right: 1em;
   opacity: .6;
   font-size: 0.8em;
+  bottom: 20px;
   z-index: 2;
   .no-counter & { display: none; }
 }
@@ -95,7 +99,7 @@ blockquote {
 }
 
 .bottom-bar {
-  background-color: $primary;
+  background-color: $secondary;
   color: $text-light;
   position: absolute;
   bottom: 0;
@@ -105,10 +109,23 @@ blockquote {
   padding: .8em;
   text-align: left;
   z-index: 1;
-  p { margin: 0;}
-  .impact &, .full & { display: none; }
+  display: flex;
+  align-items:center;
+  p {
+    margin: 0;
+    display: flex;
+    align-items:center;
+  }
+  .impact &, .full & {
+    display: none;
+  }
+  .location {
+    color: #ffff00;
+  }
+  .logo {
+    padding-right: 0.75em;
+  }
 }
-
 
 // Utilities
 // ---------------------------------------------------------------------------

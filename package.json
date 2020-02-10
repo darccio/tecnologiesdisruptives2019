@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "backslide": "^2.4.0",
+    "decktape": "^2.11.0"
+  }
+}

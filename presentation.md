@@ -4,26 +4,18 @@ layout: true
 
 <!-- This slide will serve as the base layout for all your slides -->
 .bottom-bar[
-  <strong>{{title}}</strong> | Dario Castañé | d@rio.hn
+  <img class="logo" src="logo-mw.png"><span class="location">IGUALADA</span>&nbsp;2020&nbsp;|&nbsp;<strong>{{title}}</strong>&nbsp;|&nbsp;Dario Castañé
 ]
-
----
-
-class: impact
-
-# Tecnologies disruptives
-
-## Mobile Week - Febrer 2020
 
 ---
 
 # Dario Castañé
 
 - Enginyer informàtic: Loyal Guru
+- Divulgador
 - Blockchain Catalunya
 - Pirates de Catalunya
 - Fundació Inceptum
-- Divulgador
 
 ---
 
@@ -43,6 +35,10 @@ class: impact
   - Què és la disrupció?
   - Exemples de tecnologies disruptives a l'alça
   - I observarem les seves conseqüències
+- Objectiu:
+  - Comprendre
+  - Detectar
+  - No patir de sonambulisme tecnològic (Langdon Winner)
 
 ---
 
@@ -115,9 +111,7 @@ class: impact
 
 ---
 
-<div style="position:relative;padding-top:50%;">
-  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/pxkXz_gOCQc" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+.center[<img width="50%" src="photo_2020-02-10_22-12-51.jpg">]
 
 ---
 
@@ -153,7 +147,7 @@ class: impact
 ## Criptografia aplicada
 
 - Criptomonedes: criptografia de clau assimètrica
-- Identitats sobiranes: proves de coneixement zero (zk-SNARK)
+- Identitats sobiranes: proves de coneixement zero, zk-SNARK
 
 ???
 
@@ -163,6 +157,8 @@ class: impact
   - Sobirania de dades personals
 
 ---
+
+class: impact
 
 # I el futur?
 
@@ -181,13 +177,24 @@ class: impact
 - Controlem la tecnologia o ens controla?
 - Cal establir una ètica tecnològica?
 
+???
+
+- Langdon Winner:
+  - La tecnologia inclou els nostres biaixos i té intenció
+  - Els dissenyadors ho saben bé amb el disseny
+- Les IA tenen biaixos: sistemes de reconeixement facil que ignoren asiàtics
+- La humanitat no pot entendre's sense la tecnologia, és influència mútua
+- Ètica:
+  - Dades
+  - Desenvolupament de programari
+
 ---
 
-# Bibliografia
+# Lectures
 
-- Evgeny Morozov: How the Internet strengthens dictatorships
-- Langdon Winner: Do artifacts have politics?
-- Cennydd Bowles: Future Ethics
+- **Evgeny Morozov:** How the Internet strengthens dictatorships
+- **Langdon Winner:** Do artifacts have politics?
+- **Cennydd Bowles:** Future Ethics
 
 ---
 
