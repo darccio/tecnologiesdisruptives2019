@@ -133,7 +133,7 @@ class: impact
 ---
 
 <div style="position:relative;padding-top:50%;">
-  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/wXH3UnaBkpI" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/VWrhRBb-1Ig" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
 ???
@@ -155,6 +155,21 @@ class: impact
 - Són disruptives perquè:
   - Desintermediació
   - Sobirania de dades personals
+
+---
+
+### Criptografia asimètrica (molt resumida)
+
+- Clau pública: xifrar
+- Clau privada: signar
+
+.right[![](xifrat.png)]
+
+---
+
+### Proves de coneixement zero (també molt resumides)
+
+.center[![](zero-knowledge-proof.png)]
 
 ---
 
@@ -192,8 +207,10 @@ class: impact
 
 # Lectures
 
-- **Evgeny Morozov:** How the Internet strengthens dictatorships
+- **Evgeny Morozov:** How the Internet strengthens dictatorships - TED Talks
+- **Sara Wachter-Boettcher:** Technically Wrong: sexist apps, biased algorithms, and other threats of toxic tech
 - **Langdon Winner:** Do artifacts have politics?
+- **Judith Duportail:** El algoritmo del amor: Un viaje a las entrañas de Tinder
 - **Cennydd Bowles:** Future Ethics
 
 ---
