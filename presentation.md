@@ -224,7 +224,7 @@ class: impact
 # Gràcies!
 
 - d@rio.hn
-- twitter.com/@im_dario
+- twitter.com/darccio
 - @dario@mastodon.social
-- github.com/imdario
+- github.com/darccio
 - keybase.io/dario
